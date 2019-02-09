@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SkinPainter", "SkinPainter\SkinPainter.vbproj", "{276981F0-AD9F-4FFE-B27F-5DAE11250C69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{276981F0-AD9F-4FFE-B27F-5DAE11250C69}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{276981F0-AD9F-4FFE-B27F-5DAE11250C69}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{276981F0-AD9F-4FFE-B27F-5DAE11250C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276981F0-AD9F-4FFE-B27F-5DAE11250C69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51E34A4D-7D4D-4A9B-9B19-3BA4097567A3}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

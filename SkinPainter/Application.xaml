@@ -1,0 +1,11 @@
+﻿<Application x:Class="Application"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:SkinPainter"
+    StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <FontFamily x:Key="bmyh"> ../Fonts/#BMYH</FontFamily>
+        <FontFamily x:Key="6px">../Fonts/#6px2bus</FontFamily>
+        <FontFamily x:Key="NP">../Fonts/#NP</FontFamily>
+    </Application.Resources>
+</Application>
